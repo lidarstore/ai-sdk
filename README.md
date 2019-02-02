@@ -1,2 +1,2 @@
 # ai-sdk
-Open Source Artificial Intelligence SDK
+Common Lisp Open Source Artificial Intelligence SDK
