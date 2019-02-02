@@ -1,2 +1,2 @@
 # ai-sdk
-Common Lisp Open Source Artificial Intelligence SDK
+MIT Scheme / Common Lisp Open Source Artificial Intelligence SDK
